@@ -5,7 +5,7 @@ This notebook covers a Python-based machine learning code to build a binary clas
 
 Full credit to the paper, please cite our work if used:
 
-Sun, X., Zhao, C., Koorathota, S., & Sajda, P. (2024). EEG-estimated functional connectivity, and not behavior, differentiates Parkinson's patients from health controls during the Simon conflict task. In 2024 46th Annual International Conference of the IEEE Engineering in Medicine & Biology Society (EMBC)
+Sun, X., Zhao, C., Koorathota, S., & Sajda, P. (2024). EEG-estimated functional connectivity, and not behavior, differentiates Parkinson's patients from health controls during the Simon conflict task. <i>In 2024 46th Annual International Conference of the IEEE Engineering in Medicine & Biology Society (EMBC)</i>
 
 
 ## Contents
