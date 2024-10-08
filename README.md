@@ -12,7 +12,7 @@ Sun, X., Zhao, C., Koorathota, S., & Sajda, P. (2024). EEG-estimated functional 
 
 - **Demo Code**: Example scripts illustrating ML techniques used in neural engineering such as disease diagnosis.
 - **Example Data**: Sample datasets for neural signals used in the demo.
-- **Documentation**: Brief explanations of the included materials in README file.
+- **Documentation**: Brief explanations of the included materials in `README.md` file.
 
 
 ## Usage
@@ -20,7 +20,7 @@ Sun, X., Zhao, C., Koorathota, S., & Sajda, P. (2024). EEG-estimated functional 
 To run the example scripts:
 
 1. Download and open the demo notebook provided in the `demo_code` folder at [Google Colab](https://colab.research.google.com/).
-2. Download the example dataset provided in the 'example_dataset' folder to your google drive.
+2. Download the example dataset provided in the `example_dataset` folder to your google drive.
 3. Follow the instructions and comments in each script blocks.
 
 
